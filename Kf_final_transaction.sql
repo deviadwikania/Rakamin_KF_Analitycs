@@ -1,0 +1,1 @@
+SELECT  FROM `rakamin-kf-analytics-452501.Kimia_Farma.kf_final_transaction BigQuery` LIMIT 1000
